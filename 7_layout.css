@@ -1,0 +1,25 @@
+body{ display: grid;
+	grid:50% 50%/50% 50%;
+	background:#FF531C;
+}
+form{
+	background:white;
+}
+.form-container{
+	padding-top: 80px;
+	padding-left: 30px;
+	padding-right: 30px;
+	padding-bottom: 130px;
+	width: 450px;
+	margin-top: 50px;
+	margin-left: 20px;
+	box-shadow: 0px 0px 10px 0px;
+}
+.el1{
+	padding: 0.8rem 2rem;
+	font-weight: 700;
+	border-radius: 300px;
+}
+.btn-primary{
+	background-color: #FF531C;
+}
